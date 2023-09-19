@@ -1,0 +1,144 @@
+#main{
+    width: 1570px;
+    height: 1050px;
+    background-color: white;
+    border: 1px solid black;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#a1{
+    width: 500px;
+    height: 500px;
+    background-color: #FEFEDF;
+    border: 1px solid #f37d7d;
+    margin: 10px; 
+    float: left; 
+}
+
+#a2{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(239, 116, 250);
+    border: 1px solid #f37d7d;
+    margin: 10px; 
+    float: left; 
+}
+
+#b1{
+    width: 500px;
+    height: 100px;
+    background-color: #7cbdfa;
+    margin: auto;
+}
+#b2{
+    width: 500px;
+    height: 300px;
+    background-color: #7581eb;
+    margin: auto;
+}
+#b3{    
+    width: 500px;
+    height: 100px;
+    background-color: #195ef1; 
+    margin: auto; 
+}
+
+#a3{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(118, 10, 128);
+    margin: 10px; 
+    border: 1px solid #f37d7d;
+    float: left;  
+}
+
+#c1{
+    width: 100px;
+    height: 500px;
+    background-color: #40cf77;
+    float: left;
+}
+#c2{
+    width: 400px;
+    height: 500px;
+    background-color: #22b948; 
+    float: right;
+}
+
+#a4{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(118, 10, 128);
+    border: 1px solid #f37d7d;
+    margin: 10px; 
+    float: left;
+}
+#d1{
+    width: 500px;
+    height: 100px;
+    background-color: #dd66a8;
+    float: left; 
+}
+#d2{
+    width: 150px;
+    height: 300px;
+    background-color: #dd67c0; 
+    float: left;
+}
+#d3{
+    width: 350px;
+    height: 300px;
+    background-color: #f37de9;
+    float: right;
+}
+#d4{
+    width: 500px;
+    height: 100px;
+    background-color: #a72370;
+    float: left;
+}
+
+
+#a5{
+    width: 500px;
+    height: 500px;
+    background-color: #2b3f7e;
+    border: 1px solid #f37d7d;
+    margin: 10px; 
+    float: left;
+}
+#e1{
+    width: 500px;
+    height: 100px;
+    background-color: #db804b;
+}
+#e2{
+    width: 500px;
+    height: 50px;
+    background-color: #9b5c14;
+}
+#e3{
+    width: 150px;
+    height: 300px;
+    background-color: rgb(214, 196, 29);
+    float: left;
+}
+#e4{
+    width: 200px;
+    height: 300px;
+    background-color: rgb(224, 176, 17);
+    float: left;
+}
+#e5{
+    width: 150px;
+    height: 300px;
+    background-color: rgb(182, 165, 18);
+    float: left;
+}
+#e6{
+    width: 500px;
+    height: 50px;
+    background-color: #c2824d;
+    float: left;
+}
